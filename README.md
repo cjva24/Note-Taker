@@ -8,5 +8,5 @@ The Note-Taker application facilitates the process of taking and organizing note
 
 ## Mock-Up
 
-- [Link to live application Landing Page](link_to_landing_page)
+- [Link to live application Landing Page](https://calm-spire-67925-ce7b0d46bdc0.herokuapp.com/)
 
